@@ -6,7 +6,7 @@
 - 🔭 I am currently working as a **PhD student**
 
 - 📫 How to reach me **haripriya.beta@gmail.com**
-<img align="right" alt="" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="" width="400" src="https://camo.githubusercontent.com/6b2c2aa0d470088d4a692ffcc251ea550562ca44845d2c9ee1bc5506af234e23/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d32625a496a5047432d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e676966">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haripriya sahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haripriya sahoo" height="30" width="40" /></a>
